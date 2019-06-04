@@ -1,0 +1,20 @@
+{
+  "name": "botLiri",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/holdthecode0299/botLiri.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/holdthecode0299/botLiri/issues"
+  },
+  "homepage": "https://github.com/holdthecode0299/botLiri#readme"
+}
